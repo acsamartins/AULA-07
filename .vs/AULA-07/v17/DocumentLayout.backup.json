@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2024102060012\\Documents\\AULA07\\AULA-07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45D6F41F-0C52-4DAB-994E-29509EDCD4B1}|AULA-07\\AULA-07.csproj|c:\\users\\2024102060012\\documents\\aula07\\aula-07\\aula-07\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D6F41F-0C52-4DAB-994E-29509EDCD4B1}|AULA-07\\AULA-07.csproj|solutionrelative:aula-07\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D6F41F-0C52-4DAB-994E-29509EDCD4B1}|AULA-07\\AULA-07.csproj|c:\\users\\2024102060012\\documents\\aula07\\aula-07\\aula-07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D6F41F-0C52-4DAB-994E-29509EDCD4B1}|AULA-07\\AULA-07.csproj|solutionrelative:aula-07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\2024102060012\\Documents\\AULA07\\AULA-07\\AULA-07\\Carro.cs",
+              "RelativeDocumentMoniker": "AULA-07\\Carro.cs",
+              "ToolTip": "C:\\Users\\2024102060012\\Documents\\AULA07\\AULA-07\\AULA-07\\Carro.cs",
+              "RelativeToolTip": "AULA-07\\Carro.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAqwFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T01:50:29.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2024102060012\\Documents\\AULA07\\AULA-07\\AULA-07\\Program.cs",
+              "RelativeDocumentMoniker": "AULA-07\\Program.cs",
+              "ToolTip": "C:\\Users\\2024102060012\\Documents\\AULA07\\AULA-07\\AULA-07\\Program.cs",
+              "RelativeToolTip": "AULA-07\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T01:50:09.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
