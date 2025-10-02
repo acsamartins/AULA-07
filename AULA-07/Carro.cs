@@ -12,7 +12,7 @@
 
 
 
-    public void Setplaca(string placa)
+    public void Setplaca(string placa) // validar placa
     {
         if (char.IsLetter(placa[0]) &&
             char.IsLetter(placa[1]) &&
